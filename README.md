@@ -1,2 +1,2 @@
 # gstpb-repo
-ABlage von Artikeln und Post vom Gesundheitsstammtisch
+Ablage von Artikeln und Post vom Gesundheitsstammtisch
